@@ -1,0 +1,86 @@
+﻿@using _6325048_Jérémie_Doricent_TP2.Models
+@using  _6325048_Jérémie_Doricent_TP2.ViewModel
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model PageRechercheViewModel
+<main class="container-fluid mt-3">
+    <div class="row">
+
+        <div class="col-lg-8">
+            <div class="row">
+
+                @foreach (var axd in Model.Resultat)
+                {
+                    <div class="col-4 mb-3">
+                        <a href="/Enfant/Detail/@axd.Id" class="text-decoration-none">
+                            <div class="card h-100 border text-center">
+
+                                <img src="/images/@(axd.Id).png"
+                                     class="card-img-top img-fluid p-2"
+                                     alt="@axd.Nom" />
+
+                                <div class="card-body text-center">
+                                    <h5 class="card-title text-white">@axd.Nom</h5>
+                                    <p class="card text"> @axd.Nom</p>
+
+                                </div>
+
+                            </div>
+                        </a>
+                    </div>
+                }
+
+            </div>
+        </div>
+
+       
+        <div class="col-lg-4">
+            <form method="get" action="/Enfant/Filtrer">
+                  class="p-3 bg-dark text-white rounded">
+
+                <div class="mb-3">
+                    <label class="form-label fw-bold">Nom de l'équipe</label>
+                    <input type="text" class="form-control" name="nom" value="@Model.Criteres.Nom" />
+                </div>
+
+                
+
+                <div class="mb-3">
+                    <label class="form-label fw-bold">Conférence</label><br />
+                   
+                        <input type="checkbox" name="Nom" value="true" class="form-check-input" @(Model.Criteres.Est ? "checked": "")/>
+                       
+                        <label>Est</label>
+                    
+                    <br />
+
+                    <input type="checkbox" name=" Nom " value="true" class="from-check-input" @(Model.Criteres.Ouest ? "checked" : "") />
+                          
+                            <label> ouest </label>
+                        
+                    
+                        <br />
+
+                    <input type="checkbox" name=" Nom " value="true" class="from-check-input" @(Model.Criteres.estjoueur ? "checked" : "") />
+                         
+                            <label> joueur </label>
+
+                        
+                    
+                </div>
+
+
+                <div class="d-flex justify-content-between">
+                    <button type="reset" class="btn btn-secondary">Effacer</button>
+                    <button type="submit" class="btn btn-primary">Rechercher</button>
+                </div>
+
+            </form>
+        </div>
+
+    </div>
+</main>

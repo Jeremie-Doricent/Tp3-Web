@@ -1,0 +1,32 @@
+﻿@using _6325048_Jérémie_Doricent_TP2.Models
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model List<Parent>
+
+
+<main class="container">
+    <div class="row">
+
+        @foreach (var par in Model)
+        {
+            <div class="col-sm-4 text-center">
+                <a href="/Enfant/Recherche">
+                    <img class="img-fluid" src="images/@(par.Id)Parent.png" alt="@par.Nom" />
+                </a>
+                <h5>@par.Nom</h5>
+                <p>@par.description</p>
+            </div>
+            var dnjkckal = par.Enfant.Count(f => f.PointsParMatch > 0);
+            var wx = par.Enfant.Count(f => f.Passes >0);
+            var ws = par.Enfant.Count(f => f.Nom == "ouest");
+        }
+
+        </div>
+        </main>
+
+
+        

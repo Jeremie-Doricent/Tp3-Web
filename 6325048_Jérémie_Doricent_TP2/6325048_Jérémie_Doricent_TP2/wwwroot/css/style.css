@@ -1,0 +1,149 @@
+body{
+ 
+ background-color: blue;
+    color: white;
+    
+}
+main{
+   background-color: black;
+    color: white;
+    border: solid , white , 20px;
+}
+.lo{
+    width: 55%;
+    height: 55%;
+    object-fit: contain;
+    align-items: center;
+    position: relative;
+    top: 2%;
+   
+}
+.message {
+
+   text-align: left;
+   font-size: 4em;
+}
+.lo-container :hover .message{
+opacity: 1;}
+
+.prime{
+    background-image:url("../image-prime/360_F_1350205101_LerZc0oJOBY5gVheFhp5ejugGAKgRveM.jpg");
+    background-size: cover;
+        
+    
+}
+nav{
+ 
+    background-color:blue;
+    color: white;
+    text-align: right;
+    height: 2%;
+    font-size: 3em;
+}
+footer {
+text-align: center;
+border: 30 solid blue;
+background-color: blue;
+
+
+}
+header{
+   background-color:blue;
+    text-align: left;
+    color: white;
+}
+.row{
+    border: solid , 3 white;
+   
+}
+i {
+    color: rebeccapurple;
+    
+}
+.rox{
+   padding: 3em;
+}
+.card{
+    background-color: black;
+}
+td{
+    font: 5em sans-serif;
+     border: solid , 3 black;
+}
+#tableauHoraire td {
+    width: 150px;
+    background-color: gray;
+    padding: 1em;
+    border: 1px solid black;
+}
+ .tr {
+    width: 150px;
+    background-color:violet;
+    padding: 1em;
+    border: 1px solid black;
+}
+@media (max-width: 575.98px) {
+
+    nav {
+        background-color: steelblue;
+    }
+
+}
+
+@media(min-width: 768px)  {
+   nav {
+    background-color: red;
+   }
+}
+
+
+/* appareil xs */
+
+/* appareil sm */
+@media (min-width: 576px)  { 
+    
+    nav {
+        background : #32a852;
+    }
+
+   
+}
+
+
+/* appareil md */
+@media (min-width: 768px) { 
+    
+    nav{
+        background : #329ea8;
+    }
+
+    
+}
+
+/* appareil lg */
+@media (min-width: 992px)   {     
+    nav {
+        background :gray;
+    }
+
+    
+}
+
+/* appareil xl */
+@media (min-width: 1200px) {
+    
+    nav {
+        background :black;
+    }
+
+    
+}
+li{
+    border: solid black 23px;
+}
+i{
+    color: white;
+}
+span{
+    color: black;
+}

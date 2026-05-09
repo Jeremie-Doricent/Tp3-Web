@@ -1,0 +1,82 @@
+﻿using _6325048_Jérémie_Doricent_TP2.Models;
+using _6325048_Jérémie_Doricent_TP2.ViewModel;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure;
+
+namespace _6325048_Jérémie_Doricent_TP2.Controllers
+{
+    public class EnfantController : Controller
+    {
+        private readonly BaseDonnes _bd;
+
+       
+        public EnfantController(BaseDonnes bd)
+        {
+            _bd = bd;
+        }
+
+        
+        public IActionResult Recherche()
+        {
+            var model1 = new PageRechercheViewModel();
+            model1.Criteres = new CritereRechercheViewModel();
+            model1.Criteres.Est = true;
+            model1.Criteres.Ouest = true;
+            model1.Criteres.estjoueur = true;
+            model1.Resultat = _bd.enfant.ToList();
+           
+            return View(model1);
+        }
+        [Route("enfant/detail/{id:int}")]   
+        [Route("enfant/{id:int}")]          
+        [Route("{id:int}")]
+        public IActionResult Detail(int id)
+        {
+            var enfantTrouve = _bd.enfant.Where(e => e.Id == id).SingleOrDefault();
+
+            if (enfantTrouve == null)
+            {
+                return View("NonTrouve");
+            }
+
+            return View(enfantTrouve);
+        }
+
+        public IActionResult Detail(string nom)
+        {
+            var enfantTrouve = _bd.enfant
+                .Where(e => e.Nom == nom)
+                .SingleOrDefault();
+
+            if (enfantTrouve == null)
+            {
+                return View("NonTrouve");
+            }
+
+            return View(enfantTrouve);
+        }
+    
+        public IActionResult filtrer(CritereRechercheViewModel critere) { 
+        IEnumerable <Enfant> donnes = _bd.enfant;
+            if(critere.Nom != null ||critere.Nom != "")
+            {
+               donnes = donnes.Where(f => f.Nom == critere.Nom);
+            }
+            if(critere.Est ==false)
+            {
+               donnes =  donnes.Where(f => f.IdParent == 1);
+            }
+            if (critere.Est == false)
+            {
+              donnes =  donnes.Where(f => f.IdParent == 2);
+            }
+            if (critere.estjoueur == false)
+            {
+                donnes = donnes.Where(donnes => donnes.estjoueur == true);
+            }
+            PageRechercheViewModel pageRechercheViewModel = new PageRechercheViewModel();
+            
+        return View("Recherche",critere);
+        }
+    }
+}

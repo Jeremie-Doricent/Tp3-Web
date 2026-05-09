@@ -1,0 +1,40 @@
+﻿@using _6325048_Jérémie_Doricent_TP2.Models
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model Enfant
+
+<div class="row">
+
+    <div class="col-lg-6">
+        <div class="card shadow">
+            <img src="~/Images/@(Model.Id).png"
+                 class="img-fluid"
+                 alt="@Model.Nom" />
+        </div>
+    </div>
+
+    <div class="col-lg-6 d-flex align-items-center">
+        <div class="message col-md-8">
+
+            <h2>@Model.Nom</h2>
+
+            <div class="col-12">
+                <p><strong>Conférence :</strong> @Model.Parent.Nom</p>
+                <p><strong>Points par match :</strong> @Model.PointsParMatch</p>
+                <p><strong>Passes :</strong> @Model.Passes</p>
+                <p><strong>Rebonds :</strong> @Model.Rebonds</p>
+            </div>
+
+            <form action="/Enfant/Favoris" method="POST" class="p-3 bg-dark text-white rounded">
+                <input type="hidden" name="id" value="@Model.Id" />
+                <button type="submit" class="btn btn-primary">Favoris</button>
+            </form>
+
+        </div>
+    </div>
+
+</div>

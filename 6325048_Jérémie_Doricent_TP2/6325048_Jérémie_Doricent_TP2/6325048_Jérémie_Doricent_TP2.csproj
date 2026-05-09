@@ -1,0 +1,42 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>_6325048_Jérémie_Doricent_TP2</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\images\22-lebron-james-jesse-d-garrabrant.jpg" />
+    <None Include="wwwroot\images\220731162659-01b-bill-russell-obit-gallery-restricted.jpg" />
+    <None Include="wwwroot\images\2995.gif" />
+    <None Include="wwwroot\images\360_F_1350205101_LerZc0oJOBY5gVheFhp5ejugGAKgRveM.jpg" />
+    <None Include="wwwroot\images\6093_minnesota_timberwolves-alternate-2018.png" />
+    <None Include="wwwroot\images\Boston_Celtics.svg.png" />
+    <None Include="wwwroot\images\cav.png" />
+    <None Include="wwwroot\images\denver-nuggets-logo-on-transparent-background-free-vector.jpg" />
+    <None Include="wwwroot\images\download.jpg" />
+    <None Include="wwwroot\images\fanion-nba-logo-knicks-new-york.jpg" />
+    <None Include="wwwroot\images\gettyimages-1490616343-594x594.jpg" />
+    <None Include="wwwroot\images\giphy.gif" />
+    <None Include="wwwroot\images\Houston_Rockets.svg" />
+    <None Include="wwwroot\images\images.jpg" />
+    <None Include="wwwroot\images\images.png" />
+    <None Include="wwwroot\images\Logo_Conférence_Ouest.jpg" />
+    <None Include="wwwroot\images\Logo_of_the_Detroit_Pistons.svg.png" />
+    <None Include="wwwroot\images\Los_Angeles_Lakers_logo.png" />
+    <None Include="wwwroot\images\michael-jordan-looks.jpg" />
+    <None Include="wwwroot\images\Naismith_Basketball_Hall_of_Fame_logo.png" />
+    <None Include="wwwroot\images\National_Basketball_Association_logo.svg" />
+    <None Include="wwwroot\images\New-Toronto-Raptors-Logo-2015-2016.jpg" />
+    <None Include="wwwroot\images\Orlando-Magic-NBA-Logo-Basketball-vinyl-sticker--scaled.jpg" />
+    <None Include="wwwroot\images\Philadelphia-76ers-Logo-1977-1996.png" />
+    <None Include="wwwroot\images\s-l1200.jpg" />
+    <None Include="wwwroot\images\spurs.jpg" />
+    <None Include="wwwroot\images\sunslogo_11.avif" />
+    <None Include="wwwroot\images\trophy1.webp" />
+    <None Include="wwwroot\images\téléchargement.jpg" />
+  </ItemGroup>
+
+</Project>
