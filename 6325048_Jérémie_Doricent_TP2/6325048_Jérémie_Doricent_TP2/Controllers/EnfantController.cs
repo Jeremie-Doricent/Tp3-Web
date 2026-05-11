@@ -55,28 +55,28 @@ namespace _6325048_Jérémie_Doricent_TP2.Controllers
 
             return View(enfantTrouve);
         }
-    
-        public IActionResult filtrer(CritereRechercheViewModel critere) { 
-        IEnumerable <Enfant> donnes = _bd.enfant;
-            if(critere.Nom != null ||critere.Nom != "")
-            {
-               donnes = donnes.Where(f => f.Nom == critere.Nom);
-            }
-            if(critere.Est ==false)
-            {
-               donnes =  donnes.Where(f => f.IdParent == 1);
-            }
+
+        public IActionResult Filtrer(CritereRechercheViewModel critere)
+        {
+            IEnumerable<Enfant> donnes = _bd.enfant;
+
+            if (critere.Nom != null && critere.Nom != "")
+                donnes = donnes.Where(f => f.Nom.ToLower().Contains(critere.Nom.ToLower()));
+
             if (critere.Est == false)
-            {
-              donnes =  donnes.Where(f => f.IdParent == 2);
-            }
+                donnes = donnes.Where(f => f.IdParent != 1); 
+
+            if (critere.Ouest == false)
+                donnes = donnes.Where(f => f.IdParent != 2); 
+
             if (critere.estjoueur == false)
-            {
-                donnes = donnes.Where(donnes => donnes.estjoueur == true);
-            }
+                donnes = donnes.Where(f => f.IdParent != 3); 
+
             PageRechercheViewModel pageRechercheViewModel = new PageRechercheViewModel();
-            
-        return View("Recherche",critere);
+            pageRechercheViewModel.Resultat = donnes.ToList();
+            pageRechercheViewModel.Criteres = critere;
+
+            return View( "Recherche",pageRechercheViewModel);
         }
     }
 }

@@ -110,3 +110,35 @@ C:\Users\6325048\Downloads\6325048_Jérémie_Doricent_TP2 1finale\6325048_Jéré
 C:\Users\6325048\Downloads\6325048_Jérémie_Doricent_TP2 1finale\6325048_Jérémie_Doricent_TP2 1finale\6325048_Jérémie_Doricent_TP2\6325048_Jérémie_Doricent_TP2\obj\Debug\net8.0\6325048_Jérémie_Doricent_TP2.pdb
 C:\Users\6325048\Downloads\6325048_Jérémie_Doricent_TP2 1finale\6325048_Jérémie_Doricent_TP2 1finale\6325048_Jérémie_Doricent_TP2\6325048_Jérémie_Doricent_TP2\obj\Debug\net8.0\6325048_Jérémie_Doricent_TP2.genruntimeconfig.cache
 C:\Users\6325048\Downloads\6325048_Jérémie_Doricent_TP2 1finale\6325048_Jérémie_Doricent_TP2 1finale\6325048_Jérémie_Doricent_TP2\6325048_Jérémie_Doricent_TP2\obj\Debug\net8.0\ref\6325048_Jérémie_Doricent_TP2.dll
+C:\Users\6325048\Downloads\Tp3-Web\6325048_Jérémie_Doricent_TP2\6325048_Jérémie_Doricent_TP2\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\6325048\Downloads\Tp3-Web\6325048_Jérémie_Doricent_TP2\6325048_Jérémie_Doricent_TP2\bin\Debug\net8.0\appsettings.json
+C:\Users\6325048\Downloads\Tp3-Web\6325048_Jérémie_Doricent_TP2\6325048_Jérémie_Doricent_TP2\bin\Debug\net8.0\6325048_Jérémie_Doricent_TP2.staticwebassets.runtime.json
+C:\Users\6325048\Downloads\Tp3-Web\6325048_Jérémie_Doricent_TP2\6325048_Jérémie_Doricent_TP2\bin\Debug\net8.0\6325048_Jérémie_Doricent_TP2.staticwebassets.endpoints.json
+C:\Users\6325048\Downloads\Tp3-Web\6325048_Jérémie_Doricent_TP2\6325048_Jérémie_Doricent_TP2\bin\Debug\net8.0\6325048_Jérémie_Doricent_TP2.exe
+C:\Users\6325048\Downloads\Tp3-Web\6325048_Jérémie_Doricent_TP2\6325048_Jérémie_Doricent_TP2\bin\Debug\net8.0\6325048_Jérémie_Doricent_TP2.deps.json
+C:\Users\6325048\Downloads\Tp3-Web\6325048_Jérémie_Doricent_TP2\6325048_Jérémie_Doricent_TP2\bin\Debug\net8.0\6325048_Jérémie_Doricent_TP2.runtimeconfig.json
+C:\Users\6325048\Downloads\Tp3-Web\6325048_Jérémie_Doricent_TP2\6325048_Jérémie_Doricent_TP2\bin\Debug\net8.0\6325048_Jérémie_Doricent_TP2.dll
+C:\Users\6325048\Downloads\Tp3-Web\6325048_Jérémie_Doricent_TP2\6325048_Jérémie_Doricent_TP2\bin\Debug\net8.0\6325048_Jérémie_Doricent_TP2.pdb
+C:\Users\6325048\Downloads\Tp3-Web\6325048_Jérémie_Doricent_TP2\6325048_Jérémie_Doricent_TP2\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\6325048\Downloads\Tp3-Web\6325048_Jérémie_Doricent_TP2\6325048_Jérémie_Doricent_TP2\obj\Debug\net8.0\6325048_Jérémie_Doricent_TP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6325048\Downloads\Tp3-Web\6325048_Jérémie_Doricent_TP2\6325048_Jérémie_Doricent_TP2\obj\Debug\net8.0\6325048_Jérémie_Doricent_TP2.AssemblyInfoInputs.cache
+C:\Users\6325048\Downloads\Tp3-Web\6325048_Jérémie_Doricent_TP2\6325048_Jérémie_Doricent_TP2\obj\Debug\net8.0\6325048_Jérémie_Doricent_TP2.AssemblyInfo.cs
+C:\Users\6325048\Downloads\Tp3-Web\6325048_Jérémie_Doricent_TP2\6325048_Jérémie_Doricent_TP2\obj\Debug\net8.0\6325048_Jérémie_Doricent_TP2.csproj.CoreCompileInputs.cache
+C:\Users\6325048\Downloads\Tp3-Web\6325048_Jérémie_Doricent_TP2\6325048_Jérémie_Doricent_TP2\obj\Debug\net8.0\6325048_Jérémie_Doricent_TP2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\6325048\Downloads\Tp3-Web\6325048_Jérémie_Doricent_TP2\6325048_Jérémie_Doricent_TP2\obj\Debug\net8.0\6325048_Jérémie_Doricent_TP2.RazorAssemblyInfo.cache
+C:\Users\6325048\Downloads\Tp3-Web\6325048_Jérémie_Doricent_TP2\6325048_Jérémie_Doricent_TP2\obj\Debug\net8.0\6325048_Jérémie_Doricent_TP2.RazorAssemblyInfo.cs
+C:\Users\6325048\Downloads\Tp3-Web\6325048_Jérémie_Doricent_TP2\6325048_Jérémie_Doricent_TP2\obj\Debug\net8.0\6325048_Jérémie_Doricent_TP2.sourcelink.json
+C:\Users\6325048\Downloads\Tp3-Web\6325048_Jérémie_Doricent_TP2\6325048_Jérémie_Doricent_TP2\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\6325048\Downloads\Tp3-Web\6325048_Jérémie_Doricent_TP2\6325048_Jérémie_Doricent_TP2\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\6325048\Downloads\Tp3-Web\6325048_Jérémie_Doricent_TP2\6325048_Jérémie_Doricent_TP2\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\6325048\Downloads\Tp3-Web\6325048_Jérémie_Doricent_TP2\6325048_Jérémie_Doricent_TP2\obj\Debug\net8.0\scopedcss\bundle\6325048_Jérémie_Doricent_TP2.styles.css
+C:\Users\6325048\Downloads\Tp3-Web\6325048_Jérémie_Doricent_TP2\6325048_Jérémie_Doricent_TP2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\6325048\Downloads\Tp3-Web\6325048_Jérémie_Doricent_TP2\6325048_Jérémie_Doricent_TP2\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\6325048\Downloads\Tp3-Web\6325048_Jérémie_Doricent_TP2\6325048_Jérémie_Doricent_TP2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\6325048\Downloads\Tp3-Web\6325048_Jérémie_Doricent_TP2\6325048_Jérémie_Doricent_TP2\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\6325048\Downloads\Tp3-Web\6325048_Jérémie_Doricent_TP2\6325048_Jérémie_Doricent_TP2\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\6325048\Downloads\Tp3-Web\6325048_Jérémie_Doricent_TP2\6325048_Jérémie_Doricent_TP2\obj\Debug\net8.0\6325048_Jérémie_Doricent_TP2.dll
+C:\Users\6325048\Downloads\Tp3-Web\6325048_Jérémie_Doricent_TP2\6325048_Jérémie_Doricent_TP2\obj\Debug\net8.0\refint\6325048_Jérémie_Doricent_TP2.dll
+C:\Users\6325048\Downloads\Tp3-Web\6325048_Jérémie_Doricent_TP2\6325048_Jérémie_Doricent_TP2\obj\Debug\net8.0\6325048_Jérémie_Doricent_TP2.pdb
+C:\Users\6325048\Downloads\Tp3-Web\6325048_Jérémie_Doricent_TP2\6325048_Jérémie_Doricent_TP2\obj\Debug\net8.0\6325048_Jérémie_Doricent_TP2.genruntimeconfig.cache
+C:\Users\6325048\Downloads\Tp3-Web\6325048_Jérémie_Doricent_TP2\6325048_Jérémie_Doricent_TP2\obj\Debug\net8.0\ref\6325048_Jérémie_Doricent_TP2.dll
