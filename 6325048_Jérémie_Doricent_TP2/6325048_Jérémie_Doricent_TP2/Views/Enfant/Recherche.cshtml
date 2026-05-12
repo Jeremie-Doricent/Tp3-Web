@@ -52,20 +52,20 @@
                 <div class="mb-3">
                     <label class="form-label fw-bold">Conférence</label><br />
                    
-                        <input type="checkbox" name="Nom" value="true" class="form-check-input" @(Model.Criteres.Est ? "checked": "")/>
+                        <input type="checkbox" name="Est" value="true" class="form-check-input" @(Model.Criteres.Est ? true : "")/>
                        
                         <label>Est</label>
                     
                     <br />
 
-                    <input type="checkbox" name=" Nom " value="true" class="from-check-input" @(Model.Criteres.Ouest ? "checked" : "") />
+                    <input type="checkbox" name="Ouest" value="true" class="from-check-input" @(Model.Criteres.Ouest ? true : "") />
                           
                             <label> ouest </label>
                         
                     
                         <br />
 
-                    <input type="checkbox" name=" Nom " value="true" class="from-check-input" @(Model.Criteres.estjoueur ? "checked" : "") />
+                    <input type="checkbox" name="estjoueur" value="true" class="from-check-input" @(Model.Criteres.estjoueur ? true : "") />
                          
                             <label> joueur </label>
 

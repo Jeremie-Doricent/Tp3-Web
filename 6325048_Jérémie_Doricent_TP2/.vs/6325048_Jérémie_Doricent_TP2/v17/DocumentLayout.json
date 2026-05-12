@@ -1,77 +1,77 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\6325048\\Downloads\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\",
+  "WorkspaceRootPath": "C:\\Users\\6325048\\Documents\\GitHub\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|c:\\users\\6325048\\downloads\\tp3-web\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\controllers\\enfantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|solutionrelative:6325048_j\u00E9r\u00E9mie_doricent_tp2\\controllers\\enfantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|c:\\users\\6325048\\downloads\\tp3-web\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\views\\enfant\\recherche.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|c:\\users\\6325048\\documents\\github\\tp3-web\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\views\\enfant\\recherche.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|solutionrelative:6325048_j\u00E9r\u00E9mie_doricent_tp2\\views\\enfant\\recherche.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|c:\\users\\6325048\\downloads\\tp3-web\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\views\\enfant\\nontrouve.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|solutionrelative:6325048_j\u00E9r\u00E9mie_doricent_tp2\\views\\enfant\\nontrouve.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|c:\\users\\6325048\\documents\\github\\tp3-web\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\controllers\\enfantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|solutionrelative:6325048_j\u00E9r\u00E9mie_doricent_tp2\\controllers\\enfantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|c:\\users\\6325048\\downloads\\tp3-web\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\viewmodel\\critererechercheviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|c:\\users\\6325048\\documents\\github\\tp3-web\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\viewmodel\\critererechercheviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|solutionrelative:6325048_j\u00E9r\u00E9mie_doricent_tp2\\viewmodel\\critererechercheviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|c:\\users\\6325048\\downloads\\tp3-web\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\viewmodel\\pagerechercheviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|c:\\users\\6325048\\documents\\github\\tp3-web\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\viewmodel\\pagerechercheviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|solutionrelative:6325048_j\u00E9r\u00E9mie_doricent_tp2\\viewmodel\\pagerechercheviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|c:\\users\\6325048\\downloads\\tp3-web\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|c:\\users\\6325048\\documents\\github\\tp3-web\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\views\\enfant\\nontrouve.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|solutionrelative:6325048_j\u00E9r\u00E9mie_doricent_tp2\\views\\enfant\\nontrouve.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|c:\\users\\6325048\\documents\\github\\tp3-web\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|solutionrelative:6325048_j\u00E9r\u00E9mie_doricent_tp2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|c:\\users\\6325048\\downloads\\tp3-web\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\models\\basedonnes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|c:\\users\\6325048\\documents\\github\\tp3-web\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\models\\basedonnes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|solutionrelative:6325048_j\u00E9r\u00E9mie_doricent_tp2\\models\\basedonnes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|c:\\users\\6325048\\downloads\\tp3-web\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\models\\enfant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|c:\\users\\6325048\\documents\\github\\tp3-web\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\models\\enfant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|solutionrelative:6325048_j\u00E9r\u00E9mie_doricent_tp2\\models\\enfant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|c:\\users\\6325048\\downloads\\tp3-web\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\models\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|c:\\users\\6325048\\documents\\github\\tp3-web\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\models\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|solutionrelative:6325048_j\u00E9r\u00E9mie_doricent_tp2\\models\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|c:\\users\\6325048\\downloads\\tp3-web\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\controllers\\favoris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|c:\\users\\6325048\\documents\\github\\tp3-web\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\controllers\\favoris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|solutionrelative:6325048_j\u00E9r\u00E9mie_doricent_tp2\\controllers\\favoris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|c:\\users\\6325048\\downloads\\tp3-web\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|c:\\users\\6325048\\documents\\github\\tp3-web\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|solutionrelative:6325048_j\u00E9r\u00E9mie_doricent_tp2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|c:\\users\\6325048\\downloads\\tp3-web\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|c:\\users\\6325048\\documents\\github\\tp3-web\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|solutionrelative:6325048_j\u00E9r\u00E9mie_doricent_tp2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|c:\\users\\6325048\\downloads\\tp3-web\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\views\\shared\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|c:\\users\\6325048\\documents\\github\\tp3-web\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\views\\shared\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|solutionrelative:6325048_j\u00E9r\u00E9mie_doricent_tp2\\views\\shared\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|c:\\users\\6325048\\downloads\\tp3-web\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|c:\\users\\6325048\\documents\\github\\tp3-web\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|solutionrelative:6325048_j\u00E9r\u00E9mie_doricent_tp2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|c:\\users\\6325048\\downloads\\tp3-web\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\views\\enfant\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|c:\\users\\6325048\\documents\\github\\tp3-web\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\views\\enfant\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|solutionrelative:6325048_j\u00E9r\u00E9mie_doricent_tp2\\views\\enfant\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|c:\\users\\6325048\\downloads\\tp3-web\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\views\\favoris\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|c:\\users\\6325048\\documents\\github\\tp3-web\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\views\\favoris\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|solutionrelative:6325048_j\u00E9r\u00E9mie_doricent_tp2\\views\\favoris\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|c:\\users\\6325048\\downloads\\tp3-web\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|c:\\users\\6325048\\documents\\github\\tp3-web\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|solutionrelative:6325048_j\u00E9r\u00E9mie_doricent_tp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|c:\\users\\6325048\\downloads\\tp3-web\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|c:\\users\\6325048\\documents\\github\\tp3-web\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\6325048_j\u00E9r\u00E9mie_doricent_tp2\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{1877EE65-059A-412B-833B-5214FFDB27CA}|6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2.csproj|solutionrelative:6325048_j\u00E9r\u00E9mie_doricent_tp2\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -82,15 +82,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Favoris.cs",
-              "DocumentMoniker": "C:\\Users\\6325048\\Downloads\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Controllers\\Favoris.cs",
+              "DocumentMoniker": "C:\\Users\\6325048\\Documents\\GitHub\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Controllers\\Favoris.cs",
               "RelativeDocumentMoniker": "6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Controllers\\Favoris.cs",
-              "ToolTip": "C:\\Users\\6325048\\Downloads\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Controllers\\Favoris.cs",
+              "ToolTip": "C:\\Users\\6325048\\Documents\\GitHub\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Controllers\\Favoris.cs",
               "RelativeToolTip": "6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Controllers\\Favoris.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -100,9 +100,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\6325048\\Downloads\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\6325048\\Documents\\GitHub\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\6325048\\Downloads\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\6325048\\Documents\\GitHub\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -110,13 +110,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Recherche.cshtml",
-              "DocumentMoniker": "C:\\Users\\6325048\\Downloads\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\Enfant\\Recherche.cshtml",
+              "DocumentMoniker": "C:\\Users\\6325048\\Documents\\GitHub\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\Enfant\\Recherche.cshtml",
               "RelativeDocumentMoniker": "6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\Enfant\\Recherche.cshtml",
-              "ToolTip": "C:\\Users\\6325048\\Downloads\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\Enfant\\Recherche.cshtml",
+              "ToolTip": "C:\\Users\\6325048\\Documents\\GitHub\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\Enfant\\Recherche.cshtml",
               "RelativeToolTip": "6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\Enfant\\Recherche.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAADUAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAEMAAAB6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-04-01T17:32:59.037Z",
               "EditorCaption": ""
@@ -125,9 +125,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\6325048\\Downloads\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\6325048\\Documents\\GitHub\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\6325048\\Downloads\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\6325048\\Documents\\GitHub\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAgAAAAAAAAAAAAgwBkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -135,13 +135,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "EnfantController.cs",
-              "DocumentMoniker": "C:\\Users\\6325048\\Downloads\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Controllers\\EnfantController.cs",
+              "DocumentMoniker": "C:\\Users\\6325048\\Documents\\GitHub\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Controllers\\EnfantController.cs",
               "RelativeDocumentMoniker": "6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Controllers\\EnfantController.cs",
-              "ToolTip": "C:\\Users\\6325048\\Downloads\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Controllers\\EnfantController.cs",
+              "ToolTip": "C:\\Users\\6325048\\Documents\\GitHub\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Controllers\\EnfantController.cs",
               "RelativeToolTip": "6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Controllers\\EnfantController.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAA9wEAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowD8AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-01T16:23:15.718Z",
               "EditorCaption": ""
@@ -150,9 +150,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "BaseDonnes.cs",
-              "DocumentMoniker": "C:\\Users\\6325048\\Downloads\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Models\\BaseDonnes.cs",
+              "DocumentMoniker": "C:\\Users\\6325048\\Documents\\GitHub\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Models\\BaseDonnes.cs",
               "RelativeDocumentMoniker": "6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Models\\BaseDonnes.cs",
-              "ToolTip": "C:\\Users\\6325048\\Downloads\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Models\\BaseDonnes.cs",
+              "ToolTip": "C:\\Users\\6325048\\Documents\\GitHub\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Models\\BaseDonnes.cs",
               "RelativeToolTip": "6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Models\\BaseDonnes.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAArwBcAAACJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -160,11 +160,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "CritereRechercheViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\6325048\\Downloads\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\ViewModel\\CritereRechercheViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\6325048\\Documents\\GitHub\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\ViewModel\\CritereRechercheViewModel.cs",
               "RelativeDocumentMoniker": "6325048_J\u00E9r\u00E9mie_Doricent_TP2\\ViewModel\\CritereRechercheViewModel.cs",
-              "ToolTip": "C:\\Users\\6325048\\Downloads\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\ViewModel\\CritereRechercheViewModel.cs",
+              "ToolTip": "C:\\Users\\6325048\\Documents\\GitHub\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\ViewModel\\CritereRechercheViewModel.cs",
               "RelativeToolTip": "6325048_J\u00E9r\u00E9mie_Doricent_TP2\\ViewModel\\CritereRechercheViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -175,9 +175,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Enfant.cs",
-              "DocumentMoniker": "C:\\Users\\6325048\\Downloads\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Models\\Enfant.cs",
+              "DocumentMoniker": "C:\\Users\\6325048\\Documents\\GitHub\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Models\\Enfant.cs",
               "RelativeDocumentMoniker": "6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Models\\Enfant.cs",
-              "ToolTip": "C:\\Users\\6325048\\Downloads\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Models\\Enfant.cs",
+              "ToolTip": "C:\\Users\\6325048\\Documents\\GitHub\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Models\\Enfant.cs",
               "RelativeToolTip": "6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Models\\Enfant.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -185,11 +185,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "PageRechercheViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\6325048\\Downloads\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\ViewModel\\PageRechercheViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\6325048\\Documents\\GitHub\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\ViewModel\\PageRechercheViewModel.cs",
               "RelativeDocumentMoniker": "6325048_J\u00E9r\u00E9mie_Doricent_TP2\\ViewModel\\PageRechercheViewModel.cs",
-              "ToolTip": "C:\\Users\\6325048\\Downloads\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\ViewModel\\PageRechercheViewModel.cs",
+              "ToolTip": "C:\\Users\\6325048\\Documents\\GitHub\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\ViewModel\\PageRechercheViewModel.cs",
               "RelativeToolTip": "6325048_J\u00E9r\u00E9mie_Doricent_TP2\\ViewModel\\PageRechercheViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -198,24 +198,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "NonTrouve.cshtml",
-              "DocumentMoniker": "C:\\Users\\6325048\\Downloads\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\Enfant\\NonTrouve.cshtml",
+              "DocumentMoniker": "C:\\Users\\6325048\\Documents\\GitHub\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\Enfant\\NonTrouve.cshtml",
               "RelativeDocumentMoniker": "6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\Enfant\\NonTrouve.cshtml",
-              "ToolTip": "C:\\Users\\6325048\\Downloads\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\Enfant\\NonTrouve.cshtml",
+              "ToolTip": "C:\\Users\\6325048\\Documents\\GitHub\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\Enfant\\NonTrouve.cshtml",
               "RelativeToolTip": "6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\Enfant\\NonTrouve.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-20T21:12:58.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-20T21:12:58.188Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Parent.cs",
-              "DocumentMoniker": "C:\\Users\\6325048\\Downloads\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Models\\Parent.cs",
+              "DocumentMoniker": "C:\\Users\\6325048\\Documents\\GitHub\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Models\\Parent.cs",
               "RelativeDocumentMoniker": "6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Models\\Parent.cs",
-              "ToolTip": "C:\\Users\\6325048\\Downloads\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Models\\Parent.cs",
+              "ToolTip": "C:\\Users\\6325048\\Documents\\GitHub\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Models\\Parent.cs",
               "RelativeToolTip": "6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Models\\Parent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -225,9 +224,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\6325048\\Downloads\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\6325048\\Documents\\GitHub\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\6325048\\Downloads\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\6325048\\Documents\\GitHub\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Controllers\\HomeController.cs",
               "RelativeToolTip": "6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAIwAcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -237,9 +236,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\6325048\\Downloads\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\Shared\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\6325048\\Documents\\GitHub\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\Shared\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\Shared\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\6325048\\Downloads\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\Shared\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\6325048\\Documents\\GitHub\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\Shared\\_ViewImports.cshtml",
               "RelativeToolTip": "6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\Shared\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -249,9 +248,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\6325048\\Downloads\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\Favoris\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\6325048\\Documents\\GitHub\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\Favoris\\Index.cshtml",
               "RelativeDocumentMoniker": "6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\Favoris\\Index.cshtml",
-              "ToolTip": "C:\\Users\\6325048\\Downloads\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\Favoris\\Index.cshtml",
+              "ToolTip": "C:\\Users\\6325048\\Documents\\GitHub\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\Favoris\\Index.cshtml",
               "RelativeToolTip": "6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\Favoris\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -261,9 +260,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\6325048\\Downloads\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\Enfant\\Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\6325048\\Documents\\GitHub\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\Enfant\\Detail.cshtml",
               "RelativeDocumentMoniker": "6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\Enfant\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\6325048\\Downloads\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\Enfant\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\6325048\\Documents\\GitHub\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\Enfant\\Detail.cshtml",
               "RelativeToolTip": "6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\Enfant\\Detail.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -273,9 +272,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\6325048\\Downloads\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\6325048\\Documents\\GitHub\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\6325048\\Downloads\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\6325048\\Documents\\GitHub\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -285,9 +284,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\6325048\\Downloads\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\6325048\\Documents\\GitHub\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Program.cs",
               "RelativeDocumentMoniker": "6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Program.cs",
-              "ToolTip": "C:\\Users\\6325048\\Downloads\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Program.cs",
+              "ToolTip": "C:\\Users\\6325048\\Documents\\GitHub\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Program.cs",
               "RelativeToolTip": "6325048_J\u00E9r\u00E9mie_Doricent_TP2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -297,9 +296,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "style.css",
-              "DocumentMoniker": "C:\\Users\\6325048\\Downloads\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\wwwroot\\css\\style.css",
+              "DocumentMoniker": "C:\\Users\\6325048\\Documents\\GitHub\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\wwwroot\\css\\style.css",
               "RelativeDocumentMoniker": "6325048_J\u00E9r\u00E9mie_Doricent_TP2\\wwwroot\\css\\style.css",
-              "ToolTip": "C:\\Users\\6325048\\Downloads\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\6325048\\Documents\\GitHub\\Tp3-Web\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\6325048_J\u00E9r\u00E9mie_Doricent_TP2\\wwwroot\\css\\style.css",
               "RelativeToolTip": "6325048_J\u00E9r\u00E9mie_Doricent_TP2\\wwwroot\\css\\style.css",
               "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
