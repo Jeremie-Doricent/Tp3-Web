@@ -1,10 +1,17 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using _6325048_Jérémie_Doricent_TP2.Models;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace _6325048_Jérémie_Doricent_TP2.Controllers
 {
     public class GestionEnfantController : Controller
     {
+        private readonly BaseDonnes _bd;
+
+        public GestionEnfantController(BaseDonnes bd)
+        {
+            _bd = bd;
+        }
         // GET: GestionEnfantController
         public ActionResult Index()
         {
@@ -62,7 +69,9 @@ namespace _6325048_Jérémie_Doricent_TP2.Controllers
         // GET: GestionEnfantController/Delete/5
         public ActionResult Delete(int id)
         {
-            return View();
+            var enfantBd = _bd.enfant.FirstOrDefault(x => x.Id == id);
+            if (enfantBd != null) { return View("non Trouver"); }
+            return View(enfantBd);
         }
 
         // POST: GestionEnfantController/Delete/5
@@ -70,14 +79,13 @@ namespace _6325048_Jérémie_Doricent_TP2.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Delete(int id, IFormCollection collection)
         {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
+            var enfantBd = _bd.enfant.FirstOrDefault(x => x.Id == id);
+
+            enfantBd.Parent.Enfant.Remove(enfantBd);
+
+            _bd.enfant.Remove(enfantBd);
+
+            return RedirectToAction("Index", "Home");
         }
     }
 }

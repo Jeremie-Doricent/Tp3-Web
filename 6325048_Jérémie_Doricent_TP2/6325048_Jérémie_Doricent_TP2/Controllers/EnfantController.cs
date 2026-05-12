@@ -68,8 +68,7 @@ namespace _6325048_Jérémie_Doricent_TP2.Controllers
             if (critere.Est == true)
                 donnes = donnes.Where(f => f.IdParent == 1 );
 
-            if (critere.Est == true || critere.Ouest == true)
-                donnes = donnes.Where(f => f.IdParent == 1 && f.IdParent ==2) ;
+            
            
             if (critere.Ouest == true)
                 donnes = donnes.Where(f => f.IdParent == 2); 
