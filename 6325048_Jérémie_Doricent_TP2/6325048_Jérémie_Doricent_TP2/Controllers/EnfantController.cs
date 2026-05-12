@@ -63,15 +63,25 @@ namespace _6325048_Jérémie_Doricent_TP2.Controllers
             if (critere.Nom != null && critere.Nom != "")
                 donnes = donnes.Where(f => f.Nom.ToLower().Contains(critere.Nom.ToLower()));
 
-            if (critere.Est == false)
-                donnes = donnes.Where(f => f.IdParent != 1); 
+            var test = donnes.ToList();
 
-            if (critere.Ouest == false)
-                donnes = donnes.Where(f => f.IdParent != 2); 
+            if (critere.Est == true)
+                donnes = donnes.Where(f => f.IdParent == 1 );
 
-            if (critere.estjoueur == false)
-                donnes = donnes.Where(f => f.IdParent != 3); 
+            if (critere.Est == true || critere.Ouest == true)
+                donnes = donnes.Where(f => f.IdParent == 1 && f.IdParent ==2) ;
+           
+            if (critere.Ouest == true)
+                donnes = donnes.Where(f => f.IdParent == 2); 
 
+            if (critere.estjoueur == true)
+                donnes = donnes.Where(f => f.IdParent == 3);
+
+            if (critere.Est == false && critere.Ouest == false && critere.estjoueur == false && critere.Nom == null && critere.Nom == "")
+            {
+                donnes = _bd.enfant.ToList();
+            }
+               
             PageRechercheViewModel pageRechercheViewModel = new PageRechercheViewModel();
             pageRechercheViewModel.Resultat = donnes.ToList();
             pageRechercheViewModel.Criteres = critere;

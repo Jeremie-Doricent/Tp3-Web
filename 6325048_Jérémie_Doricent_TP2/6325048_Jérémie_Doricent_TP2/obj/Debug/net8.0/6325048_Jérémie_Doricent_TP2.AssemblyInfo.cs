@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("6325048_Jérémie_Doricent_TP2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb92a7410af03baba9abe3e6d0e2f0dc23b9054a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aedfff5f128c80629634b70fa9b9554df4c794ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("6325048_Jérémie_Doricent_TP2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("6325048_Jérémie_Doricent_TP2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

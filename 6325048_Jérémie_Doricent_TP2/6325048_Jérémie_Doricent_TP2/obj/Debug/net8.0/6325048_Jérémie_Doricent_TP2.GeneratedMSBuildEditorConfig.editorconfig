@@ -9,45 +9,45 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _6325048_Jérémie_Doricent_TP2
 build_property.RootNamespace = _6325048_Jérémie_Doricent_TP2
-build_property.ProjectDir = C:\Users\6325048\Documents\GitHub\Tp3-Web\6325048_Jérémie_Doricent_TP2\6325048_Jérémie_Doricent_TP2\
+build_property.ProjectDir = C:\Users\6325048\Desktop\Tp3-Web\6325048_Jérémie_Doricent_TP2\6325048_Jérémie_Doricent_TP2\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\6325048\Documents\GitHub\Tp3-Web\6325048_Jérémie_Doricent_TP2\6325048_Jérémie_Doricent_TP2
+build_property.MSBuildProjectDirectory = C:\Users\6325048\Desktop\Tp3-Web\6325048_Jérémie_Doricent_TP2\6325048_Jérémie_Doricent_TP2
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/6325048/Documents/GitHub/Tp3-Web/6325048_Jérémie_Doricent_TP2/6325048_Jérémie_Doricent_TP2/Views/Enfant/Detail.cshtml]
+[C:/Users/6325048/Desktop/Tp3-Web/6325048_Jérémie_Doricent_TP2/6325048_Jérémie_Doricent_TP2/Views/Enfant/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5mYW50XERldGFpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/6325048/Documents/GitHub/Tp3-Web/6325048_Jérémie_Doricent_TP2/6325048_Jérémie_Doricent_TP2/Views/Enfant/NonTrouve.cshtml]
+[C:/Users/6325048/Desktop/Tp3-Web/6325048_Jérémie_Doricent_TP2/6325048_Jérémie_Doricent_TP2/Views/Enfant/NonTrouve.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5mYW50XE5vblRyb3V2ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/6325048/Documents/GitHub/Tp3-Web/6325048_Jérémie_Doricent_TP2/6325048_Jérémie_Doricent_TP2/Views/Enfant/Recherche.cshtml]
+[C:/Users/6325048/Desktop/Tp3-Web/6325048_Jérémie_Doricent_TP2/6325048_Jérémie_Doricent_TP2/Views/Enfant/Recherche.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5mYW50XFJlY2hlcmNoZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/6325048/Documents/GitHub/Tp3-Web/6325048_Jérémie_Doricent_TP2/6325048_Jérémie_Doricent_TP2/Views/Favoris/Index.cshtml]
+[C:/Users/6325048/Desktop/Tp3-Web/6325048_Jérémie_Doricent_TP2/6325048_Jérémie_Doricent_TP2/Views/Favoris/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmF2b3Jpc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/6325048/Documents/GitHub/Tp3-Web/6325048_Jérémie_Doricent_TP2/6325048_Jérémie_Doricent_TP2/Views/Home/Index.cshtml]
+[C:/Users/6325048/Desktop/Tp3-Web/6325048_Jérémie_Doricent_TP2/6325048_Jérémie_Doricent_TP2/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/6325048/Documents/GitHub/Tp3-Web/6325048_Jérémie_Doricent_TP2/6325048_Jérémie_Doricent_TP2/Views/Shared/_Layout.cshtml]
+[C:/Users/6325048/Desktop/Tp3-Web/6325048_Jérémie_Doricent_TP2/6325048_Jérémie_Doricent_TP2/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/6325048/Documents/GitHub/Tp3-Web/6325048_Jérémie_Doricent_TP2/6325048_Jérémie_Doricent_TP2/Views/Shared/_ViewImports.cshtml]
+[C:/Users/6325048/Desktop/Tp3-Web/6325048_Jérémie_Doricent_TP2/6325048_Jérémie_Doricent_TP2/Views/Shared/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WaWV3SW1wb3J0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/6325048/Documents/GitHub/Tp3-Web/6325048_Jérémie_Doricent_TP2/6325048_Jérémie_Doricent_TP2/Views/_ViewStart.cshtml]
+[C:/Users/6325048/Desktop/Tp3-Web/6325048_Jérémie_Doricent_TP2/6325048_Jérémie_Doricent_TP2/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
