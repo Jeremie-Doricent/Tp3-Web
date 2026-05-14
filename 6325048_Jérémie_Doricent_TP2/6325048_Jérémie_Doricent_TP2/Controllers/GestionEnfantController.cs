@@ -70,7 +70,7 @@ namespace _6325048_Jérémie_Doricent_TP2.Controllers
         public ActionResult Delete(int id)
         {
             var enfantBd = _bd.enfant.FirstOrDefault(x => x.Id == id);
-            if (enfantBd != null) { return View("non Trouver"); }
+            if (enfantBd == null) { return View("non Trouver"); }
             return View(enfantBd);
         }
 

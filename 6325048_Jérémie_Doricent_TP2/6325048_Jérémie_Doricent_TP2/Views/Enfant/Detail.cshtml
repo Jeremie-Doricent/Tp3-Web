@@ -29,10 +29,10 @@
                 <p><strong>Rebonds :</strong> @Model.Rebonds</p>
             </div>
 
-            <form action="/Enfant/Favoris" method="POST" class="p-3 bg-dark text-white rounded">
-                <input type="hidden" name="id" value="@Model.Id" />
-                <button type="submit" class="btn btn-primary">Favoris</button>
-            </form>
+            <a asp-controller="Favoris" asp-action="Index" asp-route-id="@Model.Id" class="btn btn-primary">
+                Favoris
+            </a>
+
 
         </div>
     </div>

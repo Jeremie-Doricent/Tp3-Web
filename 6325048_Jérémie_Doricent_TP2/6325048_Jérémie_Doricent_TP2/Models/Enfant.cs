@@ -18,7 +18,7 @@ namespace _6325048_Jérémie_Doricent_TP2.Models
 
         public int IdParent { get; set; }
         public Parent Parent { get; set; }
-
+        public Enfant() { } 
 
        
 

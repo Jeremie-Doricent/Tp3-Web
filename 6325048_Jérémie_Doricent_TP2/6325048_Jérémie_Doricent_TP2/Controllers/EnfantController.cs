@@ -32,14 +32,30 @@ namespace _6325048_Jérémie_Doricent_TP2.Controllers
         [Route("{id:int}")]
         public IActionResult Detail(int id)
         {
-            var enfantTrouve = _bd.enfant.Where(e => e.Id == id).SingleOrDefault();
-
-            if (enfantTrouve == null)
+            foreach (Enfant enfant  in _bd.enfant)
             {
-                return View("NonTrouve");
-            }
+              
+                List<int> listeEnfant = HttpContext.Session.Get<List<int>>("EnfantID");
 
-            return View(enfantTrouve);
+                if (enfant.Id == id)
+                {
+                    if (listeEnfant == null)
+                    {
+                        listeEnfant = new List<int>();
+                    }
+
+                    
+                    listeEnfant.Add(id);
+
+                
+                    HttpContext.Session.Set<List<int>>("EnfantID", listeEnfant);
+
+                   Enfant rare = _bd.enfant.Where(d => d.Id == id).Single();
+                   ;
+                }
+            }
+        
+            return RedirectToAction("Index","favoris", id);
         }
 
         public IActionResult Detail(string nom)

@@ -5,8 +5,9 @@ var builder = WebApplication.CreateBuilder(args); // Crée une web app avec les p
 builder.Services.AddControllersWithViews(); // Permet MVC
 builder.Services.AddRazorPages(); // Permet utilisation de Razor
 builder.Services.AddSingleton<BaseDonnes>();
- // Permet l'utilisation du Singleton
-
+// Permet l'utilisation du Singleton
+builder.Services.AddDistributedMemoryCache();
+builder.Services.AddSession();
 var app = builder.Build();
 
 if (app.Environment.IsDevelopment())
@@ -21,7 +22,7 @@ else
 {
     app.UseStaticFiles();
 }
-
+app.UseSession();
 app.UseRouting();
 app.UseEndpoints(endpoints =>
 {
