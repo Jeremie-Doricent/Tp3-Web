@@ -1,0 +1,12 @@
+﻿@model Enfant
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+<h2>@Model.Nom</h2>
+
+<div class="col-12">
+    <p><strong>Conférence :</strong> @Model.Parent.Nom</p>
+    <p><strong>Points par match :</strong> @Model.PointsParMatch</p>
+    <p><strong>Passes :</strong> @Model.Passes</p>
+    <p><strong>Rebonds :</strong> @Model.Rebonds</p>
+</div>
