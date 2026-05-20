@@ -19,19 +19,7 @@
                         <a href="/Enfant/Detail/@axd.Id" class="text-decoration-none">
                             <div class="card h-100 border text-center">
 
-                                <img src="/images/@(axd.Id).png"
-                                     class="card-img-top img-fluid p-2"
-                                     alt="@axd.Nom" />
-
-                                <div class="card-body text-center">
-                                    <h5 class="card-title text-white">@axd.Nom</h5>
-                                    <p class="card text">
-                                        @axd.Nom <a href="/GestionEnfant/Delete/@axd.Id" class="btn btn-danger btn-sm">
-                                            <i class="fa-solid fa-trash"> suprimer</i>
-                                        </a>
-                                    </p>
-
-                                </div>
+                                <partial name="View.cshtml" for="@axd" />
 
                             </div>
                         </a>

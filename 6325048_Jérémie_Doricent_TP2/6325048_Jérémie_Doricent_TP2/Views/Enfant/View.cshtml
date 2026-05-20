@@ -2,11 +2,16 @@
 @*
     For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
 *@
-<h2>@Model.Nom</h2>
+<img src="/images/@(Model.Id).png"
+     class="card-img-top img-fluid p-2"
+     alt="@Model.Nom" />
 
-<div class="col-12">
-    <p><strong>Conférence :</strong> @Model.Parent.Nom</p>
-    <p><strong>Points par match :</strong> @Model.PointsParMatch</p>
-    <p><strong>Passes :</strong> @Model.Passes</p>
-    <p><strong>Rebonds :</strong> @Model.Rebonds</p>
+<div class="card-body text-center">
+    <h5 class="card-title text-white">@Model.Nom</h5>
+    <p class="card text">
+        @Model.Nom <a href="/GestionEnfant/Delete/@Model.Id" class="btn btn-danger btn-sm">
+            <i class="fa-solid fa-trash"> suprimer</i>
+        </a>
+    </p>
+
 </div>
